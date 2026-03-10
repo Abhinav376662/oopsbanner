@@ -1,4 +1,4 @@
- /**
+/**
  * OOPS Banner App
  *
  * UC3: Render OOPS banner using String.join()
