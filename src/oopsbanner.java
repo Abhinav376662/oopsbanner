@@ -1,14 +1,21 @@
-/**
+ /**
  * OOPS Banner App
  *
- * UC1: Print OOPS to Console
+ * UC2: Render OOPS as Banner using '*' and spaces
  *
  * @author Abhinav
- * @version 1.0
+ * @version 2.0
  */
-public class OOPSBannerApp {
+public class oopsbanner {
 
     public static void main(String[] args) {
-        System.out.println("OOPS");
+
+        System.out.println("  *****     *****     ******     ***** ");
+        System.out.println(" *     *   *     *   *      *   *     ");
+        System.out.println(" *     *   *     *   *      *   *     ");
+        System.out.println(" *     *   *     *   ******      ***** ");
+        System.out.println(" *     *   *     *   *                * ");
+        System.out.println(" *     *   *     *   *                * ");
+        System.out.println("  *****     *****    *           ***** " );
     }
 }
